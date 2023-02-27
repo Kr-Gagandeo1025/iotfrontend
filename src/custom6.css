@@ -1,0 +1,30 @@
+.carousal-body{
+    display: flex;
+    padding: 0 10px;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+.carousal-btn-rt,.carousal-btn-lt{
+    position: absolute;
+    border-radius: 100px;
+    height:60px;
+    width:60px;
+    top:0;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.073);
+    font-size: 50px;
+    border-width: 0px;
+}
+.carousal-btn-rt{
+    right:0;
+}
+.carousal-btn-lt{
+    left:0;
+}
+.carousal-wrapper{
+    position: relative;
+    overflow: hidden;
+}

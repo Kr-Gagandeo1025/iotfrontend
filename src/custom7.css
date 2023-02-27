@@ -1,0 +1,33 @@
+.carousal2wrapper{
+    margin-top: 30px;
+    display: flex;
+    padding-top: 30px;
+    overflow: auto;
+}
+.carousal2body{
+    padding-top: 20px;
+    margin-top: 20px;
+    background:url('../src/icons/car2bgimg.png');
+    background-size: cover;
+}
+.cardwrapper{
+    min-width: 400px;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 100px 20px 100px;
+    margin:20px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px grey;
+
+}
+.carousalcard2img{
+    height:70px;
+    width:70px;
+    border-radius: 200px;
+}
+.ccard2imgdiv{
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(-30px);
+}

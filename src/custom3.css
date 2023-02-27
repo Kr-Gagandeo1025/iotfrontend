@@ -1,0 +1,37 @@
+.main{
+    padding: 20px;
+    background: url('../src/icons/bg3.png');
+}
+.text-center{
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 0px;
+    border-color: black;
+    margin: (40px,40px,40px,40px);
+    padding: 20px;
+    box-shadow: 0px 0px 40px grey;
+    background-color:white;
+}
+.card{
+    /* min-width: 300px; */
+    border-width: 0px;
+
+}
+.crdimg{
+    background-color: rgba(210, 223, 235, 0.692);
+    padding: 30px;
+    border-radius: 10px;
+}
+.aboutus{
+    font-family: 'Times New Roman', Times, serif;
+    padding:40px;
+}
+.abouthead{
+    font-size: 36px;
+    font-weight: 800;
+}
+.abouttext{
+    padding-top: 30px;
+    font-size: 18px;
+}

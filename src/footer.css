@@ -1,0 +1,26 @@
+.footer-wrap{
+    background-color:  #061C41;
+    padding: 20px;
+    color: white;
+}
+.footerlogo{
+    height:100px;
+    width:auto;
+}
+.imgr{
+    justify-content: center;
+}
+.col{
+    min-width: 200px;
+    text-align: left;
+}
+.sbtn{
+    max-width:150px;
+}
+.row{
+    margin-top: 10px;
+}
+.footscl{
+    height:30px;
+    width:55px;
+}

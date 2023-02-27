@@ -1,0 +1,39 @@
+.img-wrapper{
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    
+}
+.i2{
+    max-width:280px;
+    max-height:200px;
+    padding: 0px;
+    border-radius: 10px;
+}
+.c3{
+    box-shadow: 2px 6px 10px grey;
+    margin:20px;
+    max-width: 281px;
+    max-height: fit-content;
+    min-width: 281px;
+}
+.carousel-inner{
+    padding:1em;
+}
+.ct3{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:20px;
+    font-weight: 700;
+    padding-left: 0%;
+}
+.fade-text{
+    color: gray;
+    font-weight: bold;
+    padding-left: 0%;
+    text-align: left;
+}
+.cbtn{
+    width: 100%;
+}

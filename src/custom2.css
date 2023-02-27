@@ -1,0 +1,8 @@
+.dropdown-item:hover{
+    transition: ease-in-out,0.25s;
+    text-decoration: underline;
+}
+.nav-item:hover{
+    transition: ease-in-out,0.25s;
+    letter-spacing: 0.5px;
+}
